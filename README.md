@@ -3,7 +3,7 @@
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "SoftUni Logo"
 
 ---
-<img src="vs-for-mac-logo-caption2.png" align="right" />
+<img src="logo.png" align="right" />
 
 
 # SoftUni
