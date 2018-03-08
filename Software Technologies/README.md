@@ -12,5 +12,5 @@
 <img src="img/php.png" align="left" />
 
 ## <b>Tasks</b>
-- [GitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
-- [GitHubGitHubGitHubGitHubGitHubGitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
+1 [GitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
+2 [GitHubGitHubGitHubGitHubGitHubGitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
