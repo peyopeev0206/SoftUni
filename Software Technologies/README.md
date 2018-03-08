@@ -16,7 +16,8 @@
 ---
 
 <div>
-## <b>Tasks</b>
-- [GitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
-- [GitHubGitHubGitHubGitHubGitHubGitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
+<h1>Tasks</h1>
+  <ul>
+    <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub">GitHub</a></li>
+  </ul>
 </div>
