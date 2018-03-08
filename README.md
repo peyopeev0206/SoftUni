@@ -7,7 +7,7 @@
 
 
 # SoftUni
-All exercise from the SoftUni courses
+All exercises from the SoftUni courses
 
 ---
 
