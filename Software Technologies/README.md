@@ -11,6 +11,8 @@
 <img src="img/mysql.jpg" align="left" />
 <img src="img/php.png" align="left" />
 
+<br />
+
 ---
 ## <b>Tasks</b>
 - [GitHub](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub)
