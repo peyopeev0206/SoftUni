@@ -1,0 +1,10 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/bin/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.deps.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/bin/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.runtimeconfig.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/bin/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.runtimeconfig.dev.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/bin/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/bin/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.pdb
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/obj/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/obj/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/obj/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.AssemblyInfo.cs
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/obj/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/DictionariesLambdaAndLINQ/obj/Debug/netcoreapp2.0/DictionariesLambdaAndLINQ.pdb

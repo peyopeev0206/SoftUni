@@ -1,0 +1,10 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/bin/Debug/netcoreapp2.0/04.deps.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/bin/Debug/netcoreapp2.0/04.runtimeconfig.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/bin/Debug/netcoreapp2.0/04.runtimeconfig.dev.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/bin/Debug/netcoreapp2.0/04.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/bin/Debug/netcoreapp2.0/04.pdb
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/obj/Debug/netcoreapp2.0/04.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/obj/Debug/netcoreapp2.0/04.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/obj/Debug/netcoreapp2.0/04.AssemblyInfo.cs
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/obj/Debug/netcoreapp2.0/04.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05November2017/04/obj/Debug/netcoreapp2.0/04.pdb

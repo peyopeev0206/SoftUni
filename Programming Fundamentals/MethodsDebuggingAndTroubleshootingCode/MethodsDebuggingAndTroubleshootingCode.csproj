@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="CenterPoints.cs" />
+    <Content Include="CubeProperties.cs" />
+    <Content Include="DebuggingExercise_Substring.cs" />
+    <Content Include="EnglishNameOfTheLastDigit.cs" />
+    <Content Include="Factorial.cs" />
+    <Content Include="FactorialTrailingZeroes.cs" />
+    <Content Include="FibonacciNumbers.cs" />
+    <Content Include="GeometryCalculator.cs" />
+    <Content Include="HelloName.cs" />
+    <Content Include="LongerLine.cs" />
+    <Content Include="MasterNumbers.cs" />
+    <Content Include="MaxMethod.cs" />
+    <Content Include="NumbersInReversedOrder.cs" />
+    <Content Include="PrimeChecker.cs" />
+    <Content Include="PrimesInGivenRange.cs" />
+    <Content Include=".vscode\launch.json" />
+    <Content Include="DebuggingExercise_Instruction Set.cs" />
+    <Content Include="DebuggingExercise_InstructionSet.cs" />
+    <Content Include="DebuggingExercise_BePositive.cs" />
+    <Content Include="SequenceOfCommands.cs" />
+    <Content Include="DebuggingExercise_SequenceOfCommands.cs" />
+  </ItemGroup>
+</Project>

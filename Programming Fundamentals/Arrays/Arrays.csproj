@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="LargestCommonEnd.cs" />
+    <Content Include="RotateAndSum.cs" />
+    <Content Include="FoldAndSum.cs" />
+    <Content Include="SieveOfEratosthenes.cs" />
+    <Content Include="CompareCharArrays.cs" />
+    <Content Include="MaxSequenceOfEqualElements.cs" />
+    <Content Include="MaxSequenceOfIncreasingElements.cs" />
+    <Content Include="MostFrequentNumber.cs" />
+    <Content Include="IndexOfLetters.cs" />
+    <Content Include="PairsByDifference.cs" />
+    <Content Include="EqualSums.cs" />
+  </ItemGroup>
+</Project>

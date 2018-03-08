@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Phonebook.cs" />
+    <Content Include="main.css.cs" />
+    <Content Include="PhonebookUpgrade.cs" />
+    <Content Include="AMinerTask.cs" />
+    <Content Include="FixEmails.cs" />
+    <Content Include="HandsOfCards.cs" />
+    <Content Include="UserLogs.cs" />
+    <Content Include="PopulationCounter.cs" />
+    <Content Include="LogsAggregator.cs" />
+    <Content Include="LegendaryFarming.cs" />
+    <Content Include="СръбскоUnleashed.cs" />
+    <Content Include="DragonArmy.cs" />
+  </ItemGroup>
+</Project>

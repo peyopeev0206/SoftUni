@@ -1,0 +1,10 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/bin/Debug/netcoreapp2.0/02_Snowmen.deps.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/bin/Debug/netcoreapp2.0/02_Snowmen.runtimeconfig.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/bin/Debug/netcoreapp2.0/02_Snowmen.runtimeconfig.dev.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/bin/Debug/netcoreapp2.0/02_Snowmen.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/bin/Debug/netcoreapp2.0/02_Snowmen.pdb
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/obj/Debug/netcoreapp2.0/02_Snowmen.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/obj/Debug/netcoreapp2.0/02_Snowmen.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/obj/Debug/netcoreapp2.0/02_Snowmen.AssemblyInfo.cs
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/obj/Debug/netcoreapp2.0/02_Snowmen.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018Part1/02_Snowmen/obj/Debug/netcoreapp2.0/02_Snowmen.pdb

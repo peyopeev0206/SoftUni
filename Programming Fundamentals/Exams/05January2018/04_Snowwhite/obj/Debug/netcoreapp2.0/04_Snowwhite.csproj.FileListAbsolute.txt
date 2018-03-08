@@ -1,0 +1,11 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/bin/Debug/netcoreapp2.0/04_Snowwhite.deps.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/bin/Debug/netcoreapp2.0/04_Snowwhite.runtimeconfig.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/bin/Debug/netcoreapp2.0/04_Snowwhite.runtimeconfig.dev.json
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/bin/Debug/netcoreapp2.0/04_Snowwhite.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/bin/Debug/netcoreapp2.0/04_Snowwhite.pdb
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.csprojResolveAssemblyReference.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.AssemblyInfo.cs
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.dll
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/05January2018/04_Snowwhite/obj/Debug/netcoreapp2.0/04_Snowwhite.pdb

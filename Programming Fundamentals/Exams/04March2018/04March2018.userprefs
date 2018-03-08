@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{99740A2E-D717-4D33-BF72-30E8215FBD80}|Default">
+  <MonoDevelop.Ide.ItemProperties.04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03/Program.cs">
+    <Files>
+      <File FileName="03/Program.cs" Line="44" Column="70" />
+      <File FileName="04/Program.cs" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/peyo/Documents/GitHub/Programming-Fundamentals/Exams/04March2018/04/Program.cs" relfile="04/Program.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

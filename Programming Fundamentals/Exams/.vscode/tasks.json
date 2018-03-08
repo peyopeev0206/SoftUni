@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/05January2018Part1/01_Snowballs/01_Snowballs.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

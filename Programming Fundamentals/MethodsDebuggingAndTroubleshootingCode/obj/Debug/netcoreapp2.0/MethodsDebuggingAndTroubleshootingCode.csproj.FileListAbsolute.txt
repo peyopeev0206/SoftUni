@@ -1,0 +1,3 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/MethodsDebuggingAndTroubleshootingCode/obj/Debug/netcoreapp2.0/MethodsDebuggingAndTroubleshootingCode.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/MethodsDebuggingAndTroubleshootingCode/obj/Debug/netcoreapp2.0/MethodsDebuggingAndTroubleshootingCode.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/MethodsDebuggingAndTroubleshootingCode/obj/Debug/netcoreapp2.0/MethodsDebuggingAndTroubleshootingCode.AssemblyInfo.cs

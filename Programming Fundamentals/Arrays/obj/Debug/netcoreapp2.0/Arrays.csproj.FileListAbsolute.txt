@@ -1,0 +1,3 @@
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/peyo/Documents/GitHub/Programming-Fundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs

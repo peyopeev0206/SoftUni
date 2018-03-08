@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="PracticeIntegerNumbers.cs" />
+    <Content Include="PracticeFloatingPointNumbers.cs" />
+    <Content Include="PracticeCharactersAndStrings.cs" />
+    <Content Include="VariableInHexadecimalFormat.cs" />
+    <Content Include="BooleanVariable.cs" />
+    <Content Include="StringsAndObjects.cs" />
+    <Content Include="ExchangeVariableValues.cs" />
+    <Content Include="EmployeeData.cs" />
+    <Content Include="ReverseCharacters.cs" />
+    <Content Include="CenturiesToNanoseconds.cs" />
+    <Content Include="ConvertSpeedUnits.cs" />
+    <Content Include="RectangleProperties.cs" />
+    <Content Include="VowelOrDigit.cs" />
+    <Content Include="IntegerToHexAndBinary.cs" />
+    <Content Include="FastPrimeChecker-Refactor.cs" />
+    <Content Include="FastPrimeCheckerRefactor.cs" />
+    <Content Include="ComparingFloats.cs" />
+    <Content Include="PrintPartOfTheASCIITable.cs" />
+    <Content Include="DifferentIntegersSize.cs" />
+    <Content Include="TheaThePhotographer.cs" />
+  </ItemGroup>
+</Project>

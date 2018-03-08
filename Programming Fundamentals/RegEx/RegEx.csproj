@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ExtractEmails.cs" />
+    <Content Include="ExtractSentencesByKeyword.cs" />
+    <Content Include="CameraView.cs" />
+    <Content Include="Weather.cs" />
+    <Content Include="KeyReplacer.cs" />
+    <Content Include="ValidUsernames.cs" />
+    <Content Include="QueryMess.cs" />
+    <Content Include="UseYourChainsBuddy.cs" />
+  </ItemGroup>
+</Project>

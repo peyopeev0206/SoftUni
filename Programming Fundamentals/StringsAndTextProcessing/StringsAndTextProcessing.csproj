@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ConvertfromBase-10toBase-N.cs" />
+    <Content Include="ConvertfromBase10toBaseN.cs" />
+    <Content Include="ConvertFromBaseNToBase10.cs" />
+    <Content Include="UnicodeCharacters.cs" />
+    <Content Include="CharacterMultiplier.cs" />
+    <Content Include="SumBigNumbers.cs" />
+    <Content Include="MultiplyBigNumber.cs" />
+    <Content Include="MagicExchangeableWords.cs" />
+    <Content Include="LettersChangeNumbers.cs" />
+    <Content Include="melrahShake.cs" />
+    <Content Include="MelrahShake.cs" />
+  </ItemGroup>
+</Project>
