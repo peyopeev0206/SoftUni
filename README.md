@@ -12,7 +12,7 @@ All exercise from the SoftUni courses
 ---
 
 # Passed Courses
-- [Programming Basics with C#]
+- [Programming Basics with C#](https://github.com/peyopeev0206/SoftUni/tree/master/Programming%20Basics%20with%20C%23)
 - [Programming Fundamentals](https://github.com/peyopeev0206/SoftUni/tree/master/Programming%20Fundamentals)
 - [Software Technologies](https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies)
 
