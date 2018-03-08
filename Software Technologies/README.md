@@ -6,10 +6,10 @@
 
 ## <b>Software Technologies - March 2018 homework</b>
 <img src="img/cSharp.png"/>
-<img src="img/java.png"/>
-<img src="img/js.png"/>
-<img src="img/mysql.jpg"/>
-<img src="img/php.png"/>
+<img src="img/java.png" align="left" />
+<img src="img/js.png" align="left" />
+<img src="img/mysql.jpg" align="left" />
+<img src="img/php.png" align="left" />
 
 
 ---
