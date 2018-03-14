@@ -21,5 +21,8 @@
 <h1>Tasks</h1>
   <ul>
     <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/GitHub">GitHub</a></li>
+    <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/HTTPAndDatabases">HTTP and Databases
+    </a></li>
+    <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/HTML5AndCSS">HTML5 and CSS</a></li>
   </ul>
 </div>
