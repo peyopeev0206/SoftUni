@@ -24,5 +24,7 @@
     <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/HTTPAndDatabases">HTTP and Databases
     </a></li>
     <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/HTML5AndCSS">HTML5 and CSS</a></li>
+    <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/BlogDesign">Blog Design</a></li>
+    <li><a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/JavaScriptBasics">JS Basic</a></li>
   </ul>
 </div>
