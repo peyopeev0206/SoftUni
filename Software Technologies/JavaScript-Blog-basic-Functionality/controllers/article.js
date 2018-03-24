@@ -2,7 +2,6 @@ const Article = require('../models').Article;
 const fs = require('fs');
 module.exports = {
     createGet: (req, res) => {
-        console.log("Get for article")
         res.render('article/create');
     },
 
@@ -24,7 +23,6 @@ module.exports = {
         articleArgs.authorId = req.user.id;
         articleArgs.date = Date.now();
         articleArgs.author = req.user.fullName;
-        console.log("Image name -> "+ articleArgs.img);
         Article.create(articleArgs).then(article => {
             res.redirect('/');
         });
