@@ -1,0 +1,38 @@
+<!-- <section class="hero bg-overlay" id="hero"> -->
+<section class="hero bg-overlay" id="hero"  style="background-image: url(img/frontPagePic.png); background-attachment: fixed; background-position: center center;"><div class="overlay"></div>
+    <div class="text">
+        <p class="lead">Welcome!</p>
+        <h1>To my blog design based on <span class="bold">Bootstrap 4</span>.</h1>
+        <p>Made by Peyo Peev</p>
+    </div>
+</section>
+<section class="padding bg-grey" id="blog">
+    <div class="container">
+        <h2 class="section-title">We Blog Sometimes</h2>
+        <p class="section-lead text-muted">We wrote some articles about whatever was on our heads and most people liked it.</p>
+        <hr>
+        <div class="section-body">
+            <div class="row col-spacing">
+                {{#each articles}}
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="card">
+                            {{#if this.img}}
+                                <img class="card-img-top" id="pic" src="{{this.img}}" style="width:337px ;height:224px " alt="Article Image">
+                            {{else}}
+                                <img class="card-img-top" id="pic" src="https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width:337px ;height:224px " alt="Article Image">
+                            {{/if}}
+                            <div class="card-body">
+                                <div class="card-subtitle mb-2 text-muted">by {{this.author}}</div>
+                                <h4 class="card-title">{{this.title}}</h4>
+                                <p class="card-text" style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{this.summary}}</p>
+                                <div class="text-right">
+                                    <a href="/article/details/{{this.id}}" class="card-more">Read More &#187;</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</section>

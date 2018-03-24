@@ -1,0 +1,22 @@
+<div class="article-read" style="display: block;">
+    <div class="article-read-inner">
+        <div class="article-back">
+            <a class="btn btn-outline-primary" href="/">Back</a>
+        </div>
+        <h1 class="article-title">{{title}}</h1>
+        <div class="article-metas">
+            <div class="meta">{{this.date}}</div>
+            <div class="meta">Author: {{this.author}}</div>
+        </div>
+        <figure class="article-picture">
+            {{#if this.img}}
+                <img id="pic" src="{{this.img}}"  alt="Article Image">
+            {{else}}
+                <img id="pic" src="https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"  alt="Article Image">
+            {{/if}}
+        </figure>
+        <div class="article-content">
+            <p>{{content}}</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+<section class="padding bg-grey" id="newPost">
+    <div class="container">
+        <h2>New Post</h2>
+        {{error}}
+        <form class="form-horizontal" role="form" method="POST" action="/article/create">
+            <div class="form-group">
+                <label for="postTtitle">Post Title:</label>
+                <input type="text" class="form-control" id="articleTitle" name="title">
+            </div>
+            <div class="form-group">
+                <label for="postAuthor">Photo:</label>
+                <input type="text" class="form-control" id="articleImg" name="img">
+            </div>
+            <div class="form-group">
+                <label for="postContent">Summary:</label>
+                <textarea class="form-control" rows="2" id="articleSummary" name="summary"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="postContent">Content:</label>
+                <textarea class="form-control" rows="5" id="articleContent" name="content"></textarea>
+            </div>
+            <button type="reset" class="btn">Cancel</button>
+            <button type="submit" class="btn">Submit</button>
+        </form>
+    </div>
+</section>
