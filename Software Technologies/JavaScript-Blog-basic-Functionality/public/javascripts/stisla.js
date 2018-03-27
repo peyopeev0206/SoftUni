@@ -7,7 +7,6 @@ $(function() {
 			$(".main-loading").remove();
 		}
 	}
-	$("body").easeScroll();
 
 	$("[data-bg]").each(function() {
 		let $this = $(this),

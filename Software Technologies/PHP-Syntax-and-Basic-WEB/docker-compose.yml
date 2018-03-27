@@ -1,0 +1,10 @@
+version: '2'
+services:
+  app:
+    build:
+      context: .
+    image: xdebug-example:latest
+    volumes:
+     - ./PHP-Syntax-and-Basic-WEB:/var/www/html
+    ports:
+     - "80:80"

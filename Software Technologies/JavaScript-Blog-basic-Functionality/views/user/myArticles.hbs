@@ -1,0 +1,37 @@
+<section class="padding bg-grey" id="blog">
+    <div class="container mt-3">
+        <h2 class="section-title">Welcome</h2>
+        <p class="section-lead">to your articles viewer</p>
+        <hr>
+        <div class="section-body">
+            <div class="row col-spacing">
+                {{#each articles}}
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="card">
+                            {{#if this.img}}
+                                <img class="card-img-top" id="pic" src="{{this.img}}" style="width:337px ;height:224px " alt="Article Image">
+                            {{else}}
+                                <img class="card-img-top" id="pic" src="https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width:337px ;height:224px " alt="Article Image">
+                            {{/if}}
+                            <div class="card-body">
+                                <div class="card-subtitle mb-2 text-muted">by {{this.author}}</div>
+                                <h4 class="card-title">{{this.title}}</h4>
+                                <p class="card-text" style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{this.summary}}</p>
+                                <div class="text-right">
+                                    <a href="/article/details/{{this.id}}" class="card-more">Read More &#187;</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+    footer{
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+    }
+</style>

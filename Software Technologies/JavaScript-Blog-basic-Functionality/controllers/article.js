@@ -1,5 +1,6 @@
 const Article = require('../models').Article;
-const fs = require('fs');
+const User = require('../models').User;
+
 module.exports = {
     createGet: (req, res) => {
         res.render('article/create');
@@ -33,5 +34,12 @@ module.exports = {
         Article.findById(id).then(article => {
             res.render('article/details',article.dataValues)
         })
+    },
+    myArticles:(req, res) => {
+        User.findOne({where: {id: req.user.id}}).then(user => {
+            Article.findAll({where: {authorId: user.dataValues.id}}).then(article => {
+                res.render('user/myArticles', {articles: article});
+            });
+        });
     }
 };
