@@ -4,10 +4,10 @@ module.exports = {
     rootFolder: path.normalize(path.join(__dirname, '/../')),
     database:{
         "development": {
-            "username": "blogAdminUser",
-            "password": "blogAdminUserPassword1234!",
-            "database": "softuni_blog",
-            "host": "77.78.30.214",
+            "username": "root",
+            "password": null,
+            "database": "blog",
+            "host": "127.0.0.1",
             "dialect": "mysql",
             "logging": false
         },
