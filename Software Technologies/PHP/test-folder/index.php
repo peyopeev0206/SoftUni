@@ -6,4 +6,4 @@
  * Time: 10:55 AM
  */
 
-echo "PLS WORK";
+echo "Check if it's workig";
