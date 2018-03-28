@@ -40,5 +40,13 @@
       <a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/JavaScript-ExpressJS-Overview-Lab-Calculator-Skeleton">ExpressJS Calculator
       </a>
     </li>
+    <li>
+      <a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/JavaScript-Blog-basic-Functionality">Basic Blog Functionality
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/peyopeev0206/SoftUni/tree/master/Software%20Technologies/PHP">All PHP Exercises
+      </a>
+    </li>
   </ul>
 </div>
