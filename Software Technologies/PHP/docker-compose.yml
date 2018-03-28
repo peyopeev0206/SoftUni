@@ -5,6 +5,6 @@ services:
       context: .
     image: xdebug-example:latest
     volumes:
-     - ./PHP-Syntax-and-Basic-WEB:/var/www/html
+     - ./:/var/www/html
     ports:
      - "80:80"
