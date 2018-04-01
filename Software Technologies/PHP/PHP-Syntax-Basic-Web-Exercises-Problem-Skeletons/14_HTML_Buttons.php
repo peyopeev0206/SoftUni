@@ -13,3 +13,11 @@
 	<!--Write your PHP Script here-->
 </body>
 </html>
+<?php
+if(isset($_GET['num'])) {
+    $num = intval($_GET['num']);
+    for($i = 1; $i <= $num; $i++) {
+        echo "<button>$i</button>\n";
+    }
+}
+?>

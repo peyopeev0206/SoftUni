@@ -13,3 +13,14 @@
 	<!--Write your PHP Script here-->
 </body>
 </html>
+
+<?php
+if (isset($_GET['num'])){
+    $end = intval($_GET['num']);
+    for($i = $end; $i >= 1; $i--) {
+        if($end % $i != 0) {
+            echo $i . " ";
+        }
+    }
+}
+?>

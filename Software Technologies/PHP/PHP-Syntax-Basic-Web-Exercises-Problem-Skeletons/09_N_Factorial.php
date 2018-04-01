@@ -13,3 +13,18 @@
 	<!--Write your PHP Script here-->
 </body>
 </html>
+
+<?php
+if (isset($_GET['num'])){
+    $n = intval($_GET['num']);
+    $factorial=1;
+
+
+    while ($n > 0) {
+        $factorial *= $n;
+        $n--;
+    }
+
+    echo $factorial;
+}
+?>
