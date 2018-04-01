@@ -1,0 +1,73 @@
+{% extends 'base.html.twig' %}
+
+{% block main %}
+    <div class="container body-content span=8 offset=2">
+        <div class="well">
+            <form class="form-inline" action="{{ path('index') }}" method="POST">
+                <fieldset>
+                    <div class="form-group">
+                        <div class="col-sm-1 ">
+                            <input type="text" class="form-control" id="leftOperand" placeholder="Left Operand"
+                                   name="calculator[leftOperand]" value="{{ calculator.leftOperand ?? '' }}">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 ">
+                            <select class="form-control" name="calculator[operator]" required="required">
+                                <optgroup label="Basic Calculations">
+                                    <option value="+" {{ calculator is defined and calculator.operator == '+' ? 'selected' : '' }}>+</option>
+                                    <option value="-" {{ calculator is defined and calculator.operator == '-' ? 'selected' : '' }}>-</option>
+                                    <option value="*" {{ calculator is defined and calculator.operator == '*' ? 'selected' : '' }}>*</option>
+                                    <option value="/" {{ calculator is defined and calculator.operator == '/' ? 'selected' : '' }}>/</option>
+                                    <option value="%" {{ calculator is defined and calculator.operator == '%' ? 'selected' : '' }}>%</option>
+                                    <option value="^" {{ calculator is defined and calculator.operator == '^' ? 'selected' : '' }}>^</option>
+                                    <option value="SquareRoot" {{ calculator is defined and calculator.operator == 'SquareRoot' ? 'selected' : '' }}>&radic;</option>
+                                </optgroup>
+                                <optgroup label="Bitwise Operations">
+                                    <option value="XOR" {{ calculator is defined and calculator.operator == 'XOR' ? 'selected' : '' }}>XOR</option>
+                                    <option value="OR" {{ calculator is defined and calculator.operator == 'OR' ? 'selected' : '' }}>OR</option>
+                                    <option value="AND" {{ calculator is defined and calculator.operator == 'AND' ? 'selected' : '' }}>AND</option>
+                                    <option value="NOT" {{ calculator is defined and calculator.operator == 'NOT' ? 'selected' : '' }}>NOT</option>
+                                    <option value="SL" {{ calculator is defined and calculator.operator == 'SL' ? 'selected' : '' }}>Shift Left</option>
+                                    <option value="SR" {{ calculator is defined and calculator.operator == 'SR' ? 'selected' : '' }}>Shift Right</option>
+                                </optgroup>
+                                <optgroup label="Conversions">
+                                    <option value="Binary" {{ calculator is defined and calculator.operator == 'Binary' ? 'selected' : '' }}>To Binary</option>
+                                    <option value="Hex" {{ calculator is defined and calculator.operator == 'Hex' ? 'selected' : '' }}>To Hexadecimal</option>
+                                    <option value="Oct" {{ calculator is defined and calculator.operator == 'Oct' ? 'selected' : '' }}>To Octal</option>
+                                </optgroup>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 ">
+                            <input type="text" class="form-control" id="rightOperand" placeholder="Right Operand"
+                                   name="calculator[rightOperand]" value="{{ calculator.rightOperand ?? '' }}">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-2 ">
+                            <p>=</p>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 ">
+                            <input type="text" class="form-control" id="result" placeholder="Result"
+                                   name="result" value="{{ result ?? '' }}">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-4">
+                            <button type="submit" class="btn btn-primary">Calculate</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+{% endblock %}
