@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block main %}
+
+<div class="article-read" style="display: block;">
+    <div class="article-read-inner">
+        <div class="article-back">
+            <a class="btn btn-outline-primary" href="/">Back</a>
+        </div>
+        <h1 class="article-title">{{ article.title }}</h1>
+        <div class="article-metas">
+            <div class="meta">{{ article.dateAdded }}</div>
+            <div class="meta">Author:   {{ article.author.fullName }}</div>
+        </div>
+        <figure class="article-picture">
+            <img id="pic" src="{{article.picture}}"  alt="Article Image">
+        </figure>
+        <div class="article-content">
+            <p>{{ article.content }}</p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+
